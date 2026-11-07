@@ -1,6 +1,6 @@
 # Intro to Agents – Course Resources
 
-Supporting documentation and sample materials for the **Intro to Agents** course (September 2026), run by **TEKWETU**.
+Supporting documentation and sample materials for the **Intro to Agents** course, run by **TEKWETU**.
 
 ## Contents
 
